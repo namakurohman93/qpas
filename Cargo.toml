@@ -1,0 +1,9 @@
+[package]
+name = "qpas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = "1.0.217"
+serde_qs = "0.13.0"
+url = "2.5.4"
